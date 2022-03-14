@@ -136,3 +136,4 @@ config.py
 config*
 
 # Add addititonal files to ingnore here-
+PyCitySchools_Challenge_testing.ipynb
